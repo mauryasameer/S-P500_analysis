@@ -1,0 +1,8 @@
+pip:
+
+  matplotlib
+  numpy
+  pandas
+  tqdm
+  sklearn
+  

@@ -1,4 +1,4 @@
-#The operation have been seperated in multiple files
+# The operation have been seperated in multiple files
 ### 1.volatilityIndex
 #### run TopTenAndBottomTen.py
 	output:
